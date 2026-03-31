@@ -1,2 +1,0 @@
-VMware Photon OS 3.0
-PHOTON_BUILD_NUMBER=49d932d
